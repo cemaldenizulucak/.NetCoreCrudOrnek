@@ -1,0 +1,17 @@
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.Business.deps.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.Business.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\ref\StudentFinder.Business.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.Business.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.csproj.AssemblyReference.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.AssemblyInfoInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.AssemblyInfo.cs
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\ref\StudentFinder.Business.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.DataAccess.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.Entities.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.DataAccess.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\bin\Debug\net5.0\StudentFinder.Entities.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Business\obj\Debug\net5.0\StudentFinder.Business.csproj.CopyComplete

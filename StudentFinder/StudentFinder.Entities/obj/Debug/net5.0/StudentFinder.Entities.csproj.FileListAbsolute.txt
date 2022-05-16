@@ -1,0 +1,12 @@
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\bin\Debug\net5.0\StudentFinder.Entities.deps.json
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\bin\Debug\net5.0\StudentFinder.Entities.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\bin\Debug\net5.0\ref\StudentFinder.Entities.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\bin\Debug\net5.0\StudentFinder.Entities.pdb
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.csproj.AssemblyReference.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.AssemblyInfo.cs
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\ref\StudentFinder.Entities.dll
+C:\Users\uluca\OneDrive\Masaüstü\ders\Kodlar\.NETCORE\StudentFinder\StudentFinder.Entities\obj\Debug\net5.0\StudentFinder.Entities.pdb
